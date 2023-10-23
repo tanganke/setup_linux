@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+    name = tanganke
+    email = tang.anke@foxmail.com
+
+[http]
+    # proxy = 
